@@ -1,6 +1,6 @@
 ## Olá, eu sou Daniel Ferreira 👋
 
-- 🔭 Ainda não encontrei trabalho como programador
+- 🔭 Programador Fullstack
 - 🌱 Estudando React com Typescript
 - 😄 Pronouns: ele/dele
 
