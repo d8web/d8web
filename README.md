@@ -2,7 +2,6 @@
 
 - 🔭 Programador Fullstack
 - 🌱 React | React-Native | Node | Typescript
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/d8web">
